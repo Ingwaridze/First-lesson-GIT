@@ -1,5 +1,6 @@
 .container {
   font-size: 1em;
+  flex: auto;
   width: inherit;
 }
 .h1 {
